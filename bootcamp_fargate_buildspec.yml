@@ -12,4 +12,4 @@ phases:
 
   post_build:
     commands:
-      - aws s3 cp . s3://233632-mohanraj-mathavan-bootcamp-results/fargate/ --recursive --exclude "*" --include "*.html"
+      - aws s3 cp . s3://bootcamp-results/233632-mohanraj/fargate/ --recursive --exclude "*" --include "*.html"
