@@ -12,8 +12,8 @@
         <!--LOCAL_CHROME, LOCAL_FIREFOX, AWS_CHROME, AWS_FIREFOX, AWS_DEVICEFARM_CHROME, AWS_DEVICEFARM_FIREFOX-->
 <!--        <executionPlatformDefault>AWS_CHROME</executionPlatformDefault>-->
         <executionPlatformDefault>AWS_CHROME</executionPlatformDefault>
-        <apiHostDefault>51.104.16.24/</apiHostDefault>
-        <applicationHostDefault>51.104.16.24/</applicationHostDefault>
+        <apiHostDefault>51.104.16.24</apiHostDefault>
+        <applicationHostDefault>51.104.16.24</applicationHostDefault>
         <dashboardHostDefault>localhost</dashboardHostDefault>
     </properties>
 
